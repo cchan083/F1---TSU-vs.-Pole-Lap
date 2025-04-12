@@ -31,8 +31,11 @@ For context:
 
 On the fast right hander, just before the 2000m mark, Tsunoda seems to lift earlier than Piastri.
 
-Observe turns 5, 6 and 7.
-![throttle_comparison](plots/bahrain.jpg) (from the BBC)
+Observe turns 5, 6 and 7. 
+
+![throttle_comparison](plots/bahrain.jpg)  
+
+(from the BBC)
 
 Considering how the Red Bull car is 'front-heavy', and can carry high entry speeds, at a fast corner like this, by lifting earlier, you carry less speed into a corner, but have higher exit speed.
 
